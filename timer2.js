@@ -21,4 +21,4 @@ class TimerChecker extends Timer {
 
 }
 
-new TimerChecker(10000, true);
+new TimerChecker(666, true);
