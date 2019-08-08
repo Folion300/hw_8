@@ -85,4 +85,4 @@ class Timer {
     }
 }
 
-new Timer(10);
+new Timer(60);
